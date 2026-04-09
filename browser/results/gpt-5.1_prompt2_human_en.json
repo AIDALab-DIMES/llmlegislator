@@ -1,0 +1,33 @@
+{
+  "title": "LLMs Chat Viewer (gpt-5.1 agents)",
+  "users": {
+    "userA": {
+      "name": "Legislatore (LLM)"
+    },
+    "userB": {
+      "name": "Revisore (Human)"
+    }
+  },
+  "messages": [
+    {
+      "id": 0,
+      "sender": "userA",
+      "text": "Art. 1  \n(Dismissal for just cause of auto-railway personnel)\n\n1. Dismissal for just cause of auto-railway personnel is permitted when a cause arises which, pursuant to Article 2119 of the Civil Code, does not allow the continuation, even temporarily, of the employment relationship.\n\n2. Dismissal for just cause is preceded by a formal written notice of charges, containing a specific and detailed description of the facts alleged, as well as an indication of the time limit within which the worker may submit his or her explanations, in compliance with Article 7 of Law No. 300 of 20 May 1970 and the applicable collective bargaining agreement.\n\n3. The notice of charges is communicated to the worker by means suitable to ensure certainty of receipt and within the time limits established by law and the applicable collective bargaining agreement, running from the ascertainment of the facts on which it is based.\n\n4. The worker has the right to submit written explanations within a period of not less than five days from receipt of the notice of charges, as well as to request to be heard in person. The worker may be assisted by a representative of the trade union to which he or she belongs or has given a mandate, or by a trusted person.\n\n5. During the disciplinary procedure, the employer may, where serious reasons exist, order precautionary suspension from service, with payment of the remuneration due, in accordance with the law and the applicable collective bargaining agreement.\n\n6. Once the time limit for explanations has expired and, where requested, the hearing of the worker has been completed, the employer adopts, by written and reasoned act, the final measure, which is communicated to the worker within the time limit established by law and by the applicable collective bargaining agreement.\n\n7. The dismissal measure for just cause shall specifically indicate the facts established, the reasons preventing the continuation, even temporarily, of the employment relationship, and the date of termination of the relationship. The measure shall be communicated to the worker in writing, under penalty of ineffectiveness.\n\n8. The rules set out in this article replace, with regard to dismissal for just cause of auto-railway personnel, any different provision contained in Royal Decree No. 148 of 8 January 1931 and in the related implementing or referral provisions, without prejudice to any more favorable rules for the worker that may be contained in collective bargaining."
+    },
+    {
+      "id": 1,
+      "sender": "userB",
+      "text": "1) good 2) the phrase \"under penalty of nullity\" is not acceptable: the current legislation does not provide for nullity in the event of defects concerning the disciplinary procedure 3) good. The reference to \"without delay\" might be eccentric in relation to what is provided for in the collective agreement 4) good 5) the phrase \"with or without payment of remuneration\" is not acceptable: precautionary suspension must always be accompanied by payment of remuneration 6) good. The reference to a \"reasonable time limit\" is not acceptable, whereas the reference to what is provided for in the collective agreement is acceptable 7) good 8) good but superfluous 9) acceptable"
+    },
+    {
+      "id": 2,
+      "sender": "userA",
+      "text": "Art. 1  \n(Dismissal for just cause of auto-railway personnel)\n\n1. Dismissal for just cause of auto-railway personnel is permitted when a cause arises which, pursuant to Article 2119 of the Civil Code, does not allow the continuation, even temporarily, of the employment relationship.\n\n2. Dismissal for just cause is preceded by a formal written notice of charges, containing a specific and detailed description of the facts alleged, as well as an indication of the time limit within which the worker may submit his or her explanations, in compliance with Article 7 of Law No. 300 of 20 May 1970 and the applicable collective bargaining agreement.\n\n3. The notice of charges is communicated to the worker by means suitable to ensure certainty of receipt and within the time limits established by law and the applicable collective bargaining agreement, running from the ascertainment of the facts on which it is based.\n\n4. The worker has the right to submit written explanations within a period of not less than five days from receipt of the notice of charges, as well as to request to be heard in person. The worker may be assisted by a representative of the trade union to which he or she belongs or has given a mandate, or by a trusted person.\n\n5. During the disciplinary procedure, the employer may, where serious reasons exist, order precautionary suspension from service, with payment of the remuneration due, in accordance with the law and the applicable collective bargaining agreement.\n\n6. Once the time limit for explanations has expired and, where requested, the hearing of the worker has been completed, the employer adopts, by written and reasoned act, the final measure, which is communicated to the worker within the time limit established by law and by the applicable collective bargaining agreement.\n\n7. The dismissal measure for just cause shall specifically indicate the facts established, the reasons preventing the continuation, even temporarily, of the employment relationship, and the date of termination of the relationship. The measure shall be communicated to the worker in writing, under penalty of ineffectiveness.\n\n8. The rules set out in this article replace, with regard to dismissal for just cause of auto-railway personnel, any different provision contained in Royal Decree No. 148 of 8 January 1931 and in the related implementing or referral provisions, without prejudice to any more favorable rules for the worker that may be contained in collective bargaining."
+    },
+    {
+      "id": 3,
+      "sender": "userB",
+      "text": "ok"
+    }
+  ]
+}

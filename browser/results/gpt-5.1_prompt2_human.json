@@ -1,0 +1,33 @@
+{
+  "title": "LLMs Chat Viewer (gpt-5.1 agents)",
+  "users": {
+    "userA": {
+      "name": "Legislatore (LLM)"
+    },
+    "userB": {
+      "name": "Revisore (Human)"
+    }
+  },
+  "messages": [
+    {
+      "id": 0,
+      "sender": "userA",
+      "text": "Art. 1  \n(Licenziamento per giusta causa del personale autoferrotranviario)\n\n1. Il licenziamento per giusta causa del personale autoferrotranviario è consentito quando si verifica una causa che, ai sensi dell’articolo 2119 del codice civile, non consenta la prosecuzione, anche provvisoria, del rapporto di lavoro.\n\n2. Il licenziamento per giusta causa è preceduto, a pena di nullità, da formale contestazione scritta dell’addebito, contenente l’esposizione specifica e circostanziata dei fatti contestati, nonché l’indicazione del termine entro cui il lavoratore può presentare le proprie giustificazioni.\n\n3. La contestazione è comunicata al lavoratore con modalità idonee a garantirne la certezza della ricezione e deve essere effettuata senza ritardo rispetto all’accertamento dei fatti che vi danno causa.\n\n4. Il lavoratore ha diritto di presentare per iscritto le proprie giustificazioni entro un termine non inferiore a cinque giorni dal ricevimento della contestazione, nonché di chiedere di essere sentito personalmente. Il lavoratore può farsi assistere da un rappresentante dell’associazione sindacale cui aderisce o conferisce mandato, ovvero da persona di fiducia.\n\n5. Durante il procedimento disciplinare il datore di lavoro può disporre, ove ricorrano gravi motivi, la sospensione cautelare dal servizio, con o senza corresponsione della retribuzione, secondo quanto previsto dalla legge e dalla contrattazione collettiva applicabile.\n\n6. Decorso il termine per le giustificazioni e, ove richiesto, esaurita l’audizione del lavoratore, il datore di lavoro adotta, con atto scritto e motivato, il provvedimento definitivo, che è comunicato al lavoratore entro un termine ragionevole e comunque non superiore a trenta giorni dal completamento dell’istruttoria.\n\n7. Il provvedimento di licenziamento per giusta causa indica in modo specifico i fatti accertati, le ragioni che impediscono la prosecuzione, anche provvisoria, del rapporto di lavoro e la data di cessazione del rapporto medesimo. Il provvedimento è comunicato al lavoratore in forma scritta, a pena di inefficacia.\n\n8. Restano ferme le disposizioni di legge in materia di impugnazione del licenziamento, di tutela del lavoratore illegittimamente licenziato e di procedura disciplinare previste dallo Statuto dei lavoratori e dalla normativa vigente.\n\n9. La disciplina di cui al presente articolo sostituisce, per la parte relativa al licenziamento per giusta causa del personale autoferrotranviario, ogni diversa disposizione contenuta nel Regio Decreto 8 gennaio 1931, n. 148, e nelle relative norme di esecuzione o rinvio, fatta salva l’ulteriore disciplina più favorevole al lavoratore eventualmente contenuta nella contrattazione collettiva."
+    },
+    {
+      "id": 1,
+      "sender": "userB",
+      "text": "1) bene 2) non va bene \" a pena di nullità\": la disciplina vigente non prevede la nullità in caso di vizi riguardanti il procedimento disciplinare 3) bene. Il riferimento a \"senza ritardo\" potrebbe essere eccentrico rispetto a quanto previsto dal contratto collettivo 4) bene 5) non va bene \"con o senza corresponsione della retribuzione\": la sospensione cautelare deve sempre essere accompagnata dal pagamento della retribuzione 6) bene. Non va bene il riferimento al \"termine ragionevole\" mentre va bene il riferimento a quanto previsto dal contratto collettivo 7) bene 8) bene ma superfluo 9) va bene"
+    },
+    {
+      "id": 2,
+      "sender": "userA",
+      "text": "Art. 1  \n(Licenziamento per giusta causa del personale autoferrotranviario)\n\n1. Il licenziamento per giusta causa del personale autoferrotranviario è consentito quando si verifica una causa che, ai sensi dell’articolo 2119 del codice civile, non consenta la prosecuzione, anche provvisoria, del rapporto di lavoro.\n\n2. Il licenziamento per giusta causa è preceduto da formale contestazione scritta dell’addebito, contenente l’esposizione specifica e circostanziata dei fatti contestati, nonché l’indicazione del termine entro cui il lavoratore può presentare le proprie giustificazioni, nel rispetto dell’articolo 7 della legge 20 maggio 1970, n. 300, e della contrattazione collettiva applicabile.\n\n3. La contestazione è comunicata al lavoratore con modalità idonee a garantirne la certezza della ricezione ed entro i termini stabiliti dalla legge e dalla contrattazione collettiva applicabile, decorrenti dall’accertamento dei fatti che ne costituiscono il presupposto.\n\n4. Il lavoratore ha diritto di presentare per iscritto le proprie giustificazioni entro un termine non inferiore a cinque giorni dal ricevimento della contestazione, nonché di chiedere di essere sentito personalmente. Il lavoratore può farsi assistere da un rappresentante dell’associazione sindacale cui aderisce o conferisce mandato, ovvero da persona di fiducia.\n\n5. Durante il procedimento disciplinare il datore di lavoro può disporre, ove ricorrano gravi motivi, la sospensione cautelare dal servizio, con corresponsione della retribuzione dovuta, secondo quanto previsto dalla legge e dalla contrattazione collettiva applicabile.\n\n6. Decorso il termine per le giustificazioni e, ove richiesto, esaurita l’audizione del lavoratore, il datore di lavoro adotta, con atto scritto e motivato, il provvedimento definitivo, che è comunicato al lavoratore entro il termine stabilito dalla legge e dalla contrattazione collettiva applicabile.\n\n7. Il provvedimento di licenziamento per giusta causa indica in modo specifico i fatti accertati, le ragioni che impediscono la prosecuzione, anche provvisoria, del rapporto di lavoro e la data di cessazione del rapporto medesimo. Il provvedimento è comunicato al lavoratore in forma scritta, a pena di inefficacia.\n\n8. La disciplina di cui al presente articolo sostituisce, per la parte relativa al licenziamento per giusta causa del personale autoferrotranviario, ogni diversa disposizione contenuta nel Regio Decreto 8 gennaio 1931, n. 148, e nelle relative norme di esecuzione o rinvio, fatta salva l’ulteriore disciplina più favorevole al lavoratore eventualmente contenuta nella contrattazione collettiva."
+    },
+    {
+      "id": 3,
+      "sender": "userB",
+      "text": "ok"
+    }
+  ]
+}
